@@ -1,2 +1,13 @@
-# webpackjunior
-webpack para aprender a como usarlo para juniors
+welcome this basics using webpack manage
+
+use
+
+#install node_modules
+
+- npm install 
+
+#run 
+
+- yarn build:dev
+
+- npm run build:dev
